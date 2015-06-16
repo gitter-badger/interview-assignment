@@ -1,5 +1,7 @@
 ##### Eyeview Interview Assignment
 
+[![Join the chat at https://gitter.im/eyeview/interview-assignment](https://badges.gitter.im/Join%20Chat.svg)](https://gitter.im/eyeview/interview-assignment?utm_source=badge&utm_medium=badge&utm_campaign=pr-badge&utm_content=badge)
+
 
 The goal of the assignment is to find the top x hashtags in an input file.
 
